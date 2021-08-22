@@ -8,5 +8,4 @@ Useful regex for HB
 Word boundries
 
 ([בהוכלמש][\u05B0-\u05C3]*)+[-‑]?\w+
-
-Find prefixed preposition with hyphen
+Find prefixed preposition (with niqqud?) with hyphen
