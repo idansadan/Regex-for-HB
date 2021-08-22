@@ -6,3 +6,5 @@ Useful regex for HB
 
 ([^\u0590-\u05FF]{1}[\u0590-\u05FF]+|[\u0590-\u05FF]+[^\u0590-\u05FF]{1})
 * Word boundries
+
+And now?
