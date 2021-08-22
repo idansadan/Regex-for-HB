@@ -15,3 +15,6 @@ Useful regex for HB
 
 ["״][(\u0590-\u05FF)(\w)]+(\s+[(\u0590-\u05FF)(\w)]+)?["״][\s\.\,\:]
 * Find quotes
+
+"(?!([(\u0590-\u05FF)(\w)]+(\s+[(\u0590-\u05FF)(\w)]+)?[״][\s\.\,\:]))
+* Find mismatching quotes
