@@ -6,3 +6,7 @@ Useful regex for HB
 
 ([^\u0590-\u05FF]{1}[\u0590-\u05FF]+|[\u0590-\u05FF]+[^\u0590-\u05FF]{1})
 Word boundries
+
+([בהוכלמש][\u05B0-\u05C3]*)+[-‑]?\w+
+
+Find prefixed preposition with hyphen
