@@ -9,3 +9,6 @@ Useful regex for HB
 
 ([בהוכלמש][\u05B0-\u05C3]*)+[-‑]?\w+
 * Find prefixed preposition (with niqqud?) with hyphen
+
+[\u0590-\u05FF]*[ךםןףץ][\u0590-\u05FF]+
+* final forms in the middle of the word
