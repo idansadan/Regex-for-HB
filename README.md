@@ -12,3 +12,6 @@ Useful regex for HB
 
 [\u0590-\u05FF]*[ךםןףץ][\u0590-\u05FF]+
 * final forms in the middle of the word
+
+["״][(\u0590-\u05FF)(\w)]+\s+[(\u0590-\u05FF)(\w)]+["״][\s\.\,\:]
+* Find quotes
